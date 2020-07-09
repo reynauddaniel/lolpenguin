@@ -11,11 +11,12 @@ This is the requirements intended for developers
 
  - [Git](https://git-scm.com/downloads) 
  - Whatever IDE you like
+ - Composer
 
 ## Access to production
 
-As soon as you push, update from [here](https://www.virtual-info.info/clientarea.php?action=productdetails&id=732&dosinglesignon=1) 
+As soon as you push, update from [here](https://dashboard.heroku.com/apps/lolpenguin/deploy/github) 
 
--> Git™ Version Control -> Pull or Deploy -> Update From Remote
+-> Deploy a GitHub branch -> Master -> Deploy branch
 
-You can check on the production server : [http://lmvb.v-info.info/](http://lmvb.v-info.info/)
+You can check on the production server : [https://lolpenguin.herokuapp.com/](https://lolpenguin.herokuapp.com/)
